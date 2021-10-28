@@ -1,0 +1,23 @@
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.design
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSql
+dotnet ef database update 
+dotnet tool install --global dotnet-ef
+dotnet ef migrations add test
+dotnet ef database update 
+
+IEnumerable<T> GetAll();
+        T Get(long id);
+        void Insert(T entity);
+        void Update(T entity);
+        void Delete(T entity);
+        void Remove(T entity);
+        void SaveChanges();
+    }
+
+    IEnumerable<User> GetUsers();
+        User GetUser(long id);
+        void InsertUser(User user);
+        void UpdateUser(User user);
+        void DeleteUser(long id);

@@ -1,0 +1,34 @@
+StudentDbContext studentDbContext;
+        public StudentRepository(StudentDbContext _studentDbContext)
+        {
+         studentDbContext  = _studentDbContext;
+        }
+
+        void IStudentRepository.AddDetails(Student student)
+        {
+            studentDbContext.Add(student);
+            studentDbContext.SaveChanges();
+        }
+
+        void IStudentRepository.DeleteDetails(int id)
+        {
+            var delete = studentDbContext.std.FirstOrDefault(t => t.Sid == id);
+            studentDbContext.std.Remove(delete);
+            studentDbContext.SaveChanges();
+        }
+
+        List<Student> IStudentRepository.GetAllRecord()
+        {
+            return studentDbContext.std.ToList();
+        }
+
+        Student IStudentRepository.GetSingleDetail(int id)
+        {
+            return studentDbContext.std.FirstOrDefault(t => t.Sid == id);
+        }
+
+        void IStudentRepository.UpdateDetails(Student student)
+        {
+            studentDbContext.std.Update(student);
+            studentDbContext.SaveChanges();
+        }

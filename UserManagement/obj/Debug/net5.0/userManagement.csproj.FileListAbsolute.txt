@@ -1,0 +1,116 @@
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\userManagement.exe
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\userManagement.deps.json
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\userManagement.runtimeconfig.json
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\userManagement.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\userManagement.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\ref\userManagement.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\userManagement.pdb
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\staticwebassets\userManagement.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\staticwebassets\userManagement.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\scopedcss\bundle\userManagement.styles.css
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.csproj.CopyComplete
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.dll
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\ref\userManagement.dll
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.pdb
+C:\Users\lenovo\Desktop\userManagement\obj\Debug\net5.0\userManagement.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Npgsql.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\lenovo\Desktop\userManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\userManagement.exe
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\userManagement.deps.json
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\userManagement.runtimeconfig.json
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\userManagement.runtimeconfig.dev.json
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\userManagement.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\ref\userManagement.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\userManagement.pdb
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Npgsql.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.csproj.AssemblyReference.cache
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.AssemblyInfoInputs.cache
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.AssemblyInfo.cs
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.csproj.CoreCompileInputs.cache
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\staticwebassets\userManagement.StaticWebAssets.Manifest.cache
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\staticwebassets\userManagement.StaticWebAssets.xml
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\scopedcss\bundle\userManagement.styles.css
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.RazorTargetAssemblyInfo.cache
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.csproj.CopyComplete
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\ref\userManagement.dll
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.pdb
+C:\Users\sachin.yadav\OneDrive - Taazaa Tech Pvt Ltd\day26\userManagement\obj\Debug\net5.0\userManagement.genruntimeconfig.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.csproj.AssemblyReference.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.AssemblyInfoInputs.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.AssemblyInfo.cs
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.csproj.CoreCompileInputs.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\ref\userManagement.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.pdb
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\userManagement.exe
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\userManagement.deps.json
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\userManagement.runtimeconfig.json
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\userManagement.runtimeconfig.dev.json
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\userManagement.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\ref\userManagement.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\userManagement.pdb
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Npgsql.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\staticwebassets\userManagement.StaticWebAssets.Manifest.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\staticwebassets\userManagement.StaticWebAssets.xml
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\scopedcss\bundle\userManagement.styles.css
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.RazorTargetAssemblyInfo.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.csproj.CopyComplete
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\obj\Debug\net5.0\userManagement.genruntimeconfig.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day26\UserManagement\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

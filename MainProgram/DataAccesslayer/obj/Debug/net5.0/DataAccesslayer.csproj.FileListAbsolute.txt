@@ -1,0 +1,15 @@
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\DataAccesslayer.deps.json
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\DataAccesslayer.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\ref\DataAccesslayer.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\DataAccesslayer.pdb
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.csproj.AssemblyReference.cache
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.AssemblyInfoInputs.cache
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.AssemblyInfo.cs
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.csproj.CoreCompileInputs.cache
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\ref\DataAccesslayer.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.pdb
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\Domain.dll
+C:\DotnetWebapi\MainProgram\DataAccesslayer\bin\Debug\net5.0\Domain.pdb
+C:\DotnetWebapi\MainProgram\DataAccesslayer\obj\Debug\net5.0\DataAccesslayer.csproj.CopyComplete

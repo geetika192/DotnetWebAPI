@@ -1,0 +1,16 @@
+C:\Taazaa_Training_Pc\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.exe
+C:\Taazaa_Training_Pc\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.deps.json
+C:\Taazaa_Training_Pc\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.runtimeconfig.json
+C:\Taazaa_Training_Pc\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.runtimeconfig.dev.json
+C:\Taazaa_Training_Pc\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.dll
+C:\Taazaa_Training_Pc\ExtensionMethod\bin\Debug\net5.0\ref\ExtensionMethod.dll
+C:\Taazaa_Training_Pc\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.pdb
+C:\Taazaa_Training_Pc\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.csproj.AssemblyReference.cache
+C:\Taazaa_Training_Pc\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taazaa_Training_Pc\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Taazaa_Training_Pc\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.AssemblyInfo.cs
+C:\Taazaa_Training_Pc\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Taazaa_Training_Pc\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.dll
+C:\Taazaa_Training_Pc\ExtensionMethod\obj\Debug\net5.0\ref\ExtensionMethod.dll
+C:\Taazaa_Training_Pc\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.pdb
+C:\Taazaa_Training_Pc\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.genruntimeconfig.cache

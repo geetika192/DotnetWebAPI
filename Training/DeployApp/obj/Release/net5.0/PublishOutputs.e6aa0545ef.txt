@@ -1,0 +1,11 @@
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\DeployApp.exe
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\appsettings.Development.json
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\appsettings.json
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\DeployApp.dll
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\DeployApp.deps.json
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\DeployApp.runtimeconfig.json
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\DeployApp.pdb
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotnetWebapi\Training\DeployApp\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

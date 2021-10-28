@@ -1,0 +1,17 @@
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\bin\Debug\net5.0\BussinessLogicLayer.deps.json
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\bin\Debug\net5.0\BussinessLogicLayer.dll
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\bin\Debug\net5.0\ref\BussinessLogicLayer.dll
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\bin\Debug\net5.0\BussinessLogicLayer.pdb
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.AssemblyInfo.cs
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.dll
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\obj\Debug\net5.0\ref\BussinessLogicLayer.dll
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.pdb
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\bin\Debug\net5.0\DataAccesslayer.dll
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\bin\Debug\net5.0\Domain.dll
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\bin\Debug\net5.0\DataAccesslayer.pdb
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\bin\Debug\net5.0\Domain.pdb
+C:\DotnetWebapi\MainProgram\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.csproj.CopyComplete

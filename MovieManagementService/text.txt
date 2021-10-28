@@ -1,0 +1,19 @@
+This article introduces how to perform the Create, Read, Update, and Delete (CRUD) operations in ASP.NET Core, using Entity Framework Core. We will use the "Code First" 
+development approach and create a database from model using migration. We can view this article’s sample on TechNet Gallery. I would like to recommend the following the 
+article Overview Of ASP.NET Core so that we start development for this sample application in ASP.NET Core. We will create a single entity Customer to perform the CRUD operations.
+The EntityTypeBuilder<T> is an important class that allows configuration to be performed for an entity type in a model. This is done using the modelbuilder in an override of the 
+OnModelCreating method. The Constructor of the CustomerMap class uses the Fluent API to map and configure properties in the table. So let's see each method used in the constructor
+ one-by-one. 
+HasKey()
+The Haskey() method configures a primary key on table.
+
+Property()
+The Property method configures attributes for each property belonging to an entity or complex type. It is used to obtain a configuration object for a given property. The options on
+ the configuration object are specific to the type being configured.
+Now, it’s time to define context class. The ADO.NET Entity Framework Code First development approach requires us to create a data access context class that inherits from the 
+DbContext class so we create a context class CRUDContext (CRUDContext.cs) class. In this class, we override the OnModelCreating() method. This method is called when the model 
+for a context class (CRUDContext) has been initialized, but before the model has been locked down and used to initialize the context such that the model can be further configured 
+before it is locked down. 
+As the concept of dependency injection is central to the ASP.NET Core application, so we register our context to dependency injection during the application start up. Once we 
+register CRUDContext context as a service to dependency injection, then provide it via constructor to MVC controller. In order for our MVC controllers to make use of CRUDContext, 
+we are going to register it as a service. 

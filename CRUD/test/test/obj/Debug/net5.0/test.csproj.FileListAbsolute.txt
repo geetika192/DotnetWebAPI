@@ -1,0 +1,121 @@
+C:\New folder\web\test\obj\Debug\net5.0\test.csproj.AssemblyReference.cache
+C:\New folder\web\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\web\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+C:\New folder\web\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+C:\New folder\web\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+C:\New folder\web\test\obj\Debug\net5.0\test.MvcApplicationPartsAssemblyInfo.cs
+C:\New folder\web\test\obj\Debug\net5.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\New folder\web\test\bin\Debug\net5.0\appsettings.Development.json
+C:\New folder\web\test\bin\Debug\net5.0\appsettings.json
+C:\New folder\web\test\bin\Debug\net5.0\test.exe
+C:\New folder\web\test\bin\Debug\net5.0\test.deps.json
+C:\New folder\web\test\bin\Debug\net5.0\test.runtimeconfig.json
+C:\New folder\web\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+C:\New folder\web\test\bin\Debug\net5.0\test.dll
+C:\New folder\web\test\bin\Debug\net5.0\ref\test.dll
+C:\New folder\web\test\bin\Debug\net5.0\test.pdb
+C:\New folder\web\test\bin\Debug\net5.0\Humanizer.dll
+C:\New folder\web\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\New folder\web\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\New folder\web\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\New folder\web\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\New folder\web\test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\New folder\web\test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\New folder\web\test\bin\Debug\net5.0\Npgsql.dll
+C:\New folder\web\test\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\New folder\web\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\New folder\web\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\New folder\web\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\New folder\web\test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\New folder\web\test\obj\Debug\net5.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\New folder\web\test\obj\Debug\net5.0\staticwebassets\test.StaticWebAssets.xml
+C:\New folder\web\test\obj\Debug\net5.0\scopedcss\bundle\test.styles.css
+C:\New folder\web\test\obj\Debug\net5.0\test.RazorTargetAssemblyInfo.cache
+C:\New folder\web\test\obj\Debug\net5.0\test.csproj.CopyComplete
+C:\New folder\web\test\obj\Debug\net5.0\test.dll
+C:\New folder\web\test\obj\Debug\net5.0\ref\test.dll
+C:\New folder\web\test\obj\Debug\net5.0\test.pdb
+C:\New folder\web\test\obj\Debug\net5.0\test.genruntimeconfig.cache
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\appsettings.json
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\test.exe
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\test.deps.json
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\test.runtimeconfig.json
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\test.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\ref\test.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\test.pdb
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.csproj.AssemblyReference.cache
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\staticwebassets\test.StaticWebAssets.xml
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\scopedcss\bundle\test.styles.css
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.csproj.CopyComplete
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\ref\test.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.pdb
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\obj\Debug\net5.0\test.genruntimeconfig.cache
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ganesh.pandey\Desktop\Day 46\test\test\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\appsettings.Development.json
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\appsettings.json
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\test.exe
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\test.deps.json
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\test.runtimeconfig.json
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\test.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\ref\test.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\test.pdb
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Humanizer.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Npgsql.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotnetWebapi\CRUD\test\test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.csproj.AssemblyReference.cache
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.MvcApplicationPartsAssemblyInfo.cs
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\staticwebassets\test.StaticWebAssets.xml
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\scopedcss\bundle\test.styles.css
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.RazorTargetAssemblyInfo.cache
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.dll
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\ref\test.dll
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.pdb
+C:\DotnetWebapi\CRUD\test\test\obj\Debug\net5.0\test.genruntimeconfig.cache
